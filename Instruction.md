@@ -63,5 +63,10 @@ ___
 
 [Цитаты известных личностей](https://ru.citaty.net/tsitaty/616703-lao-tszy-priroda-nikogda-ne-speshit-no-vsegda-uspevaet "Лао Цзы")
 
+Test text
+* -1
+    + -2
+        * -3
 
+***Go!*** 
 
