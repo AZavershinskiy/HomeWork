@@ -61,7 +61,11 @@ ___
 # *Оформление картинки*
 
 ![Лао Цзы](lao-czy.jpg)
+___
 
+# *Оформление ссылки*
+
+[Цитаты известных личностей](https://ru.citaty.net/tsitaty/616703-lao-tszy-priroda-nikogda-ne-speshit-no-vsegda-uspevaet "Лао Цзы")
 
 
 
